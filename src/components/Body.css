@@ -1,0 +1,58 @@
+.pages {
+  color: #828ead;
+  text-decoration: none;
+}
+
+.twelve-things {
+  font-size: 0.8rem;
+  padding-inline: 10px;
+  border-radius: 8px;
+  color: #828ead;
+  background-color: #f2f5f9;
+}
+
+.button-style {
+  display: flex;
+  justify-content: center;
+  padding-inline: 4rem;
+  color: #f2f5f9;
+  background-color: #1551e5;
+  border-radius: 8px;
+  border: none;
+}
+
+.button-heart-style {
+  padding-block: 0.8rem;
+  padding-inline: 1.5rem;
+  background-color: #f2f6ff;
+  border-radius: 8px;
+  border: none;
+}
+
+.charakter {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.h-336 {
+  width: 300px;
+  height: 336px;
+}
+
+.contents-center {
+  margin-inline: 0;
+}
+
+@media (min-width: 1200px) {
+  .contents-center {
+    margin-inline: 10%;
+  }
+}
+
+.counter {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  border: 1px solid black;
+  font-size: 1rem;
+}

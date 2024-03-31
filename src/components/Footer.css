@@ -1,0 +1,30 @@
+.links {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 1.5rem;
+}
+
+.footer-links {
+  color: black;
+  text-decoration: none;
+  font-size: small;
+  margin-bottom: 5px;
+}
+
+.about {
+  font-size: 0.7rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: #828ead;
+  margin-right: 1rem;
+}
+
+.about:hover {
+  color: #1551e5;
+  fill: #1551e5;
+}
+
+li {
+  list-style-type: none;
+}
